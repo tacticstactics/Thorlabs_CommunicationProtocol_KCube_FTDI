@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThorLabs.MotionControl.FTD2xx_Net", "Common Libraries\Internal Libraries\CSharp\ThorLabs.MotionControl.FTD2xx_Net\ThorLabs.MotionControl.FTD2xx_Net.csproj", "{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDC_WinForm_Net", "Examples\TDC_WinForm_Net\TDC_WinForm_Net.csproj", "{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB7DCF5-0875-4CBE-8A13-8AF9D3763A80}
+	EndGlobalSection
+EndGlobal
