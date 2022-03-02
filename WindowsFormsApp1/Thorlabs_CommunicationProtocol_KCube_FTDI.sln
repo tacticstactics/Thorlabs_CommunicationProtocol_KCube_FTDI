@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThorLabs.MotionControl.FTD2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDC_WinForm_Net", "Examples\TDC_WinForm_Net\TDC_WinForm_Net.csproj", "{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,8 +21,6 @@ Global
 		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4366EED-21C3-44EA-8BBD-B5EC7D125E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
