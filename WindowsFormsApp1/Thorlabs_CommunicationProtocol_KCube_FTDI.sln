@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThorLabs.MotionControl.FTD2xx_Net", "Common Libraries\Internal Libraries\CSharp\ThorLabs.MotionControl.FTD2xx_Net\ThorLabs.MotionControl.FTD2xx_Net.csproj", "{240EE237-7DAF-476F-A2EE-FDC4A1AA7367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDC_WinForm_Net", "Examples\TDC_WinForm_Net\TDC_WinForm_Net.csproj", "{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDC_WinForm_Net", "Examples\TDC_WinForm_Net\KDC_WinForm_Net.csproj", "{E1A78398-8D83-4E9B-939D-51DFA5B44AC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
