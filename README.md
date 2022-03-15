@@ -1,4 +1,4 @@
-# Thorlabs CommunicationProtocol_KCube
+# Thorlabs CommunicationProtocol_KCube_FTDI
 
 Low Level Communication Protocol
 
