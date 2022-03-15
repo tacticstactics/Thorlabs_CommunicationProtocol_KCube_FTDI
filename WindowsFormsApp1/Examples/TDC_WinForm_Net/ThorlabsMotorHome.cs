@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> Thorlabs motor home. </summary>
 	/// <seealso cref="T:TDC_WinForm_Net.ThorlabsMotor"/>

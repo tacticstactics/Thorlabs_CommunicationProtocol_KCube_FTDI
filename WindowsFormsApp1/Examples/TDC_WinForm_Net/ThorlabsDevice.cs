@@ -9,7 +9,7 @@ using System.Threading;
 using System.Windows.Forms.VisualStyles;
 using ThorLabs.MotionControl.FTD2xx_Net;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> A Gemeric Thorlabs device. </summary>
 	public class ThorlabsDevice

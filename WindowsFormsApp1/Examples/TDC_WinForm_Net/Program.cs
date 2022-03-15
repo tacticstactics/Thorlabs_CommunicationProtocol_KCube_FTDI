@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	static class Program
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> Utilities. </summary>
 	public static class Utilities

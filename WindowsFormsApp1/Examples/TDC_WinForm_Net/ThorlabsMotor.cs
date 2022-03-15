@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> Thorlabs motor. </summary>
 	public abstract class ThorlabsMotor
@@ -9,7 +9,7 @@ namespace TDC_WinForm_Net
 		protected readonly ThorlabsDevice _device;
 
 		/// <summary> collection of motor device IDs. </summary>
-		private readonly List<uint> _motorDevices = new List<uint> {40, 67, 70, 73, 80, 83}; 
+		private readonly List<uint> _motorDevices = new List<uint> {26, 27, 40, 67, 70, 73, 80, 83}; 
 
 		/// <summary> Constructor. </summary>
 		/// <param name="device"> The device. </param>

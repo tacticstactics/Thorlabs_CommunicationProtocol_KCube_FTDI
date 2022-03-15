@@ -1,4 +1,4 @@
-﻿namespace TDC_WinForm_Net
+﻿namespace KDC_WinForm_Net
 {
 	partial class Form1
 	{

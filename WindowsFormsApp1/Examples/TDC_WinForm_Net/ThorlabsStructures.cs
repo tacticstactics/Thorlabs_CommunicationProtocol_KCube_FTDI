@@ -5,7 +5,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> Device messages. </summary>
 	/// <remarks> Refer to APT Documentation</remarks>

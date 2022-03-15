@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using ThorLabs.MotionControl.FTD2xx_Net;
 
-namespace TDC_WinForm_Net
+namespace KDC_WinForm_Net
 {
 	/// <summary> Form 1. </summary>
 	/// <seealso cref="T:System.Windows.Forms.Form"/>
